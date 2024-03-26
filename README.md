@@ -7,6 +7,7 @@ The project encompassed the following stages:
 - creating the database from scratch 
 - inserting exemplary data into each table
 - developing views, functions, procedures, and triggers.
+- 
 The complete project description can be found in "documentation.pdf" file.
 
 Below is the ER diagram of the created database:
