@@ -4,10 +4,9 @@ This project was a collaborative effort between <a href="https://github.com/paul
 The primary objective of the project was to design and implement a database for a company offering a diverse range of studies, courses, and webinars.
 
 The project encompassed the following stages:
-
-Creating the database from scratch.
-Populating each table with exemplary data.
-Developing views, functions, procedures, and triggers.
+- creating the database from scratch 
+- inserting exemplary data into each table
+- developing views, functions, procedures, and triggers.
 The complete project description can be found in "documentation.pdf" file.
 
 Below is the ER diagram of the created database:
